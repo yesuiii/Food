@@ -1,2 +1,3 @@
 streamlit
-fastai
+fastai==2.7.18
+fastcore==1.7.28
