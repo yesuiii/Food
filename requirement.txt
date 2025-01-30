@@ -2,3 +2,4 @@ streamlit
 fastai
 fastcore
 fastai.vision.all
+load_learner
