@@ -1,5 +1,4 @@
 import streamlit as st
-import fastai
 from fastai.vision.all import *
 from PIL import Image
 # Load the trained model
