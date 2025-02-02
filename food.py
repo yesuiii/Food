@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 from fastai.vision.all import *
-import load_learner
+#import load_learner
 
 @st.cache_resource
 def load_model():
