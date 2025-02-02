@@ -1,6 +1,4 @@
-fastai==2.7.18
-Pillow==10.0.0
+streamlit==1.32.2
+fastai==2.7.13
 torch==2.0.1
-torchvision==0.15.2
-streamlit==1.26.0
-fastcore==1.7.28
+pillow==10.2.0
