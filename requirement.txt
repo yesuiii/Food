@@ -3,3 +3,4 @@ Pillow==10.0.0
 torch==2.0.1
 torchvision==0.15.2
 streamlit==1.26.0
+fastcore==1.7.28
