@@ -1,4 +1,5 @@
 streamlit
-fastcore
-fastai.vision.all
-load_learner
+fastai
+Pillow
+torch
+torchvision
