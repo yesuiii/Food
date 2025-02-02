@@ -1,3 +1,2 @@
 streamlit
 fastai
-load_learner
