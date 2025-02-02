@@ -1,3 +1,2 @@
 streamlit
 fastai
-fastai.vision.all
