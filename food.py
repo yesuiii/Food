@@ -10,7 +10,7 @@ def load_model():
 
 def main():
     st.title("Mongolian Food Classifier")
-    st.write("Upload an image")
+    st.write("  ")
 
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
 
